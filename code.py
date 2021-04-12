@@ -6,7 +6,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler,PolynomialFeatures
 from sklearn.linear_model import LinearRegression
 %matplotlib inline
-file_name='https://github.com/rafayk330/house-price-prediction/blob/main/house-price-data.csv'
+file_name='house-price-data.csv'
 df=pd.read_csv(file_name)
 df.dtypes
 df.drop(df[["id","Unnamed: 0"]], axis=1, inplace=True)
