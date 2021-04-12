@@ -49,7 +49,8 @@ ___
 ___
 ## **ANALYSIS**
 All the steps in the analysis have been explained in the Jupyter Notebook for this project. Some examples of visualizations used are as follows:
-
+![sqft_corr](https://user-images.githubusercontent.com/76584894/114440367-78b5e480-9be3-11eb-8cb4-5200c49d5e7c.JPG)
+![waterfront_boxplot](https://user-images.githubusercontent.com/76584894/114440377-7a7fa800-9be3-11eb-992e-63e5eec50d59.JPG)
 ___
 ## **SUMMARY AND REFLECTION**
 This is an intermediate-level project which involves some advanced concepts of Machine Learning and Predictive Modeling in Python using an IDE. 
