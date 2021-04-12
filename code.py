@@ -6,3 +6,5 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler,PolynomialFeatures
 from sklearn.linear_model import LinearRegression
 %matplotlib inline
+file_name=''
+df=pd.read_csv(file_name)
